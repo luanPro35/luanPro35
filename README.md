@@ -2,9 +2,8 @@
 <h3 align="center">🚀 Web App Developer | 💻 Full-Stack | 🌱 Luôn học hỏi</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=🔥+Web+App+Developer;🌐+Yêu+Front-End+%26+Back-End;🎯+Mục+tiêu:+Code+gọn+%26+chuẩn;🏆+Không+ngừng+nâng+cấp+bản+thân" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=💻+Web+Developer;⚡+Yêu+code+gọn+và+hiệu+quả;🌱+Đang+học+Next.js+và+Prisma" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
