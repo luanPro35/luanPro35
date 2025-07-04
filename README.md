@@ -76,16 +76,29 @@ const luan = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanPro35&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanPro35&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+| 📈 **Thống kê** | 📋 **Chi tiết** |
+|:---:|:---:|
+| 🎯 **Total Commits** | ![Commits](https://img.shields.io/badge/Commits-150+-brightgreen?style=for-the-badge&logo=github) |
+| 📂 **Public Repos** | ![Repos](https://img.shields.io/badge/Repos-25+-blue?style=for-the-badge&logo=github) |
+| ⭐ **Stars Earned** | ![Stars](https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge&logo=github) |
+| 🔥 **Current Streak** | ![Streak](https://img.shields.io/badge/Streak-15%20days-orange?style=for-the-badge&logo=github) |
+| 💻 **Top Language** | ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=for-the-badge&logo=javascript) |
+| 🌟 **Profile Views** | ![Views](https://img.shields.io/badge/Views-1000+-red?style=for-the-badge&logo=github) |
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luanPro35&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luanPro35&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" />
+### 🎨 **Language Distribution**
+
+| 💾 **Language** | 📊 **Usage** | 🎯 **Level** |
+|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 45% | ![Advanced](https://img.shields.io/badge/Advanced-success?style=flat-square) |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | 25% | ![Expert](https://img.shields.io/badge/Expert-brightgreen?style=flat-square) |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | 20% | ![Advanced](https://img.shields.io/badge/Advanced-success?style=flat-square) |
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | 10% | ![Intermediate](https://img.shields.io/badge/Intermediate-yellow?style=flat-square) |
+
 </div>
 
 ---
