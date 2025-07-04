@@ -28,32 +28,32 @@ const luan = {
 ### 🎨 **Frontend**
 <div align="center">
   
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://img.icons8.com/color/64/000000/html-5--v1.png" alt="HTML5" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/javascript--v1.png" alt="JavaScript" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/tailwindcss.png" alt="TailwindCSS" width="60" height="60"/>
 
 </div>
 
 ### ⚙️ **Backend**
 <div align="center">
   
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/express-js.png" alt="Express.js" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" width="60" height="60"/>
 
 </div>
 
 ### 🔧 **Tools & Environment**
 <div align="center">
   
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS Code" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/github--v1.png" alt="GitHub" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/postman-api.png" alt="Postman" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/000000/figma--v1.png" alt="Figma" width="60" height="60"/>
 
 </div>
 
