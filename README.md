@@ -52,7 +52,6 @@ const luan = {
 <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS Code" width="60" height="60"/>
 <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" width="60" height="60"/>
 <img src="https://img.icons8.com/color/64/000000/github--v1.png" alt="GitHub" width="60" height="60"/>
-<img src="https://img.icons8.com/color/64/000000/postman-api.png" alt="Postman" width="60" height="60"/>
 <img src="https://img.icons8.com/color/64/000000/figma--v1.png" alt="Figma" width="60" height="60"/>
 
 </div>
