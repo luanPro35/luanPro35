@@ -15,7 +15,7 @@
 const luan = {
     role: "Full-Stack Web Developer",
     location: "Vietnam 🇻🇳",
-    languages: ["JavaScript", "HTML", "CSS", "SQL"],
+    languages: ["JavaScript", "React", "HTML", "CSS", "SQL"],
     currentFocus: "Building scalable web applications",
     hobbies: ["Coding", "Learning", "Problem Solving"]
 };
