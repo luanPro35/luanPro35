@@ -43,6 +43,7 @@ const luan = {
 <img src="https://img.icons8.com/color/64/000000/express-js.png" alt="Express.js" width="60" height="60"/>
 <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" width="60" height="60"/>
 <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" width="60" height="60"/>
+<img src="https://img.icons8.com/color/64/26a69a/spring-logo.png" alt="Spring Boot" width="60" height="60"/>
 
 </div>
 
