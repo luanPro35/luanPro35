@@ -1,9 +1,11 @@
-# <div align="center">⚡ Xin chào, mình là **Luan** - Full-Stack Developer</div>
+# <div align="center">👋 Xin chào, mình là **Luan** 🚀</div>
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Building+Next-Gen+Web+Applications;Always+Learning+%26+Growing+%F0%9F%8C%B1;Code+%7C+Create+%7C+Innovate)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Always+Learning+New+Technologies;Building+Amazing+Web+Applications" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </div>
 
 ---
