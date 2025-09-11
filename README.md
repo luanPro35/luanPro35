@@ -214,13 +214,9 @@ mindmap
 
 <div align="center">
   
-### 💭 **Developer Philosophy**
+**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
-> *"Code is poetry written in logic. Every line tells a story, every function solves a problem, and every project changes the world a little bit."*
-
-<img src="https://komarev.com/ghpvc/?username=luanPro35&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
-**⭐ If you find my work interesting, don't forget to star some repositories!**
+<img src="https://komarev.com/ghpvc/?username=luanPro35&label=Profile+Views&color=6AD3F7&style=flat-square" alt="Profile Views" />
 
 </div>
 
