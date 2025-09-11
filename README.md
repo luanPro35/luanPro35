@@ -10,19 +10,6 @@
 
 ---
 
-<div align="center">
-  
-```ascii
-╭─────────────────────────────────────────────────────────────╮
-│  🎯 Passionate Developer from Vietnam 🇻🇳                    │
-│  💡 Turning Ideas into Digital Reality                       │
-│  🌟 3+ Years of Coding Experience                           │
-│  🚀 Always Pushing Boundaries                               │
-╰─────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
 ## 🛡️ **Tech Arsenal**
 
 <div align="center">
@@ -124,38 +111,7 @@
 
 ---
 
-## 🎯 **Skill Matrix & Progress**
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Luan))
-    Frontend
-      React Advanced
-      JavaScript Expert
-      HTML/CSS Master
-      Responsive Design
-    Backend
-      Node.js Proficient
-      Express.js Advanced
-      Database Design
-      API Development
-    Tools
-      Git Version Control
-      VS Code Optimization
-      Chrome DevTools
-      Figma Prototyping
-    Learning
-      Next.js
-      TypeScript
-      Docker
-      AWS Cloud
-```
-
-</div>
-
----
 
 ## 🌟 **Current Learning Journey**
 
