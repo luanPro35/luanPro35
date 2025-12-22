@@ -12,12 +12,6 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=🎄+Full-Stack+Web+Developer+🎄;❄️+Frontend+Developer+(HTML,+CSS,+JS,+React)+❄️;🎅+Backend+Developer+(Node.js,+Express)+🎅;🎁+Database+Expert+(MySQL,+MongoDB)+🎁;⛄+Always+Learning+New+Technologies+⛄;✨+Building+Amazing+Web+Applications+✨;🌟+Happy+Holidays!+🌟" alt="Typing SVG" />
-  
-</div>
-
-<div align="center">
-  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
   
 </div>
