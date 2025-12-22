@@ -12,13 +12,7 @@
 
 <div align="center">
   
-![Snowfall](https://i.pinimg.com/originals/f2/92/32/f29232a50c3485ff06c463cerhood.gif)
-
-</div>
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=🎄+Full-Stack+Web+Developer+🎄;❄️+Always+Learning+New+Technologies+❄️;🎅+Building+Amazing+Web+Applications+🎅;🎁+Happy+Holidays!+🎁" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=🎄+Full-Stack+Web+Developer+🎄;❄️+Frontend+Developer+(HTML,+CSS,+JS,+React)+❄️;🎅+Backend+Developer+(Node.js,+Express)+🎅;🎁+Database+Expert+(MySQL,+MongoDB)+🎁;⛄+Always+Learning+New+Technologies+⛄;✨+Building+Amazing+Web+Applications+✨;🌟+Happy+Holidays!+🌟" alt="Typing SVG" />
   
 </div>
 
@@ -96,14 +90,6 @@
 ---
 
 <div align="center">
-  
-**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-<br/>
-
-![Christmas Tree](https://media.giphy.com/media/3o6ZsZdNs3yE5l6hWM/giphy.gif)
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=luanPro35&label=Profile+Views&color=6AD3F7&style=flat-square" alt="Profile Views" />
 
