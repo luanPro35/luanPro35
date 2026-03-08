@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,10&height=200&section=header&text=💻%20Welcome%20to%20my%20Code%20Space%20💻&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20🚀&descAlignY=55&descSize=20)
+![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,10&height=200&section=header&text=💻%20Welcome%20to%20my%20Code%20Space%20💻&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20|%20Problem%20Solver%20🚀&descAlignY=55&descSize=20)
 
 </div>
 
@@ -63,17 +63,6 @@
   
   💻 ⌨️ 🖥️ 🖱️ 📱 🖧 🌐 🔧 📊 💾 
   
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanPro35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanPro35&layout=compact&langs_count=7&theme=tokyonight"/>
-
 </div>
 
 ---
