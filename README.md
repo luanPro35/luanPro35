@@ -1,6 +1,6 @@
 <div align="center">
 
-![Christmas Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=200&section=header&text=🎄%20Merry%20Christmas%20🎄&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!%20❄️&descAlignY=55&descSize=20)
+![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,10&height=200&section=header&text=💻%20Welcome%20to%20my%20Code%20Space%20💻&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20🚀&descAlignY=55&descSize=20)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  🎄 ❄️ 🎅 🎁 ⛄ 🔔 ✨ 🌟 ❄️ 🎄
+  💻 ⌨️ 🖥️ 🖱️ 📱 🖧 🌐 🔧 📊 💾
   
 </div>
 
@@ -50,12 +50,30 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://www.figma.com/)
 
+### 🚀 **Additional Technologies**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)](https://www.postman.com/)
+
 </div>
 
 <div align="center">
   
-  🎄 ❄️ 🎅 🎁 ⛄ 🔔 ✨ 🌟 ❄️ 🎄
+  💻 ⌨️ 🖥️ 🖱️ 📱 🖧 🌐 🔧 📊 💾
   
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanPro35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanPro35&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 ---
@@ -67,25 +85,36 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/luan.le.355745)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:quangluan03052000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/luanPro35)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/luanpro35/)
 
 ### 💬 **Open for opportunities in:**
 
-`🎄 Frontend Development` • `❄️ Backend Development` • `🎅 Full-Stack Projects` • `🎁 Code Review` • `⛄ Tech Mentoring`
+`💻 Frontend Development` • `⚙️ Backend Development` • `🚀 Full-Stack Projects` • `📱 Mobile Development` • `🤝 Team Collaboration`
 
 </div>
 
 <div align="center">
   
-  🎄 ❄️ 🎅 🎁 ⛄ 🔔 ✨ 🌟 ❄️ 🎄
+  💻 ⌨️ 🖥️ 🖱️ 📱 🖧 🌐 🔧 📊 💾 
   
+</div>
+
+---
+
+## 🏆 **Achievements & Certifications**
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/luanpro35)](https://holopin.io/@luanpro35)
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=luanPro35&label=Profile+Views&color=6AD3F7&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=luanPro35&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/luanPro35?label=Followers&style=social" alt="GitHub Followers" />
 
 </div>
 
@@ -93,6 +122,6 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=120&section=footer&text=🎄%20Thanks%20for%20visiting!%20Happy%20Holidays!%20❄️&fontSize=20&fontColor=ffffff&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,10&height=120&section=footer&text=💻%20Thanks%20for%20stopping%20by!%20Happy%20Coding!%20🚀&fontSize=20&fontColor=ffffff&animation=twinkling)
 
 </div>
