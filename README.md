@@ -61,7 +61,7 @@
 
 <div align="center">
   
-  💻 ⌨️ 🖥️ 🖱️ 📱 🖧 🌐 🔧 📊 💾
+  💻 ⌨️ 🖥️ 🖱️ 📱 🖧 🌐 🔧 📊 💾 
   
 </div>
 
@@ -97,16 +97,6 @@
   
   💻 ⌨️ 🖥️ 🖱️ 📱 🖧 🌐 🔧 📊 💾 
   
-</div>
-
----
-
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-
-[![Holopin Badges](https://holopin.me/luanpro35)](https://holopin.io/@luanpro35)
-
 </div>
 
 ---
